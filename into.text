@@ -1,16 +1,23 @@
-In this week, learners will be introduced to Python, one of the most popular and beginner-friendly programming languages used in software development, automation, data science, web development, and AI. The focus is on understanding what Python is, where it is used, and why it is widely adopted in the industry.
-Learners will set up the Python development environment, understand Python syntax and indentation rules, work with variables and data types, perform input and output operations, and write their first Python programs. By the end of this week, learners will be able to install Python, configure an IDE, and confidently write and execute basic Python scripts.In this week, learners will be introduced to Python, one of the most popular and beginner-friendly programming languages used in software development, automation, data science, web development, and AI. The focus is on understanding what Python is, where it is used, and why it is widely adopted in the industry.
-Learners will set up the Python development environment, understand Python syntax and indentation rules, work with variables and data types, perform input and output operations, and write their first Python programs. By the end of this week, learners will be able to install Python, configure an IDE, and confidently write and execute basic Python scripts.
-Summary
-The documentation submission does not meet the assignment requirements. The main document (into.text) does not explain Python's history, key features with examples, or real-world applications as requested. It contains significant duplicated content and is structured as weekly learning objectives rather than the required explanatory document.
+1. What is Python?
 
-Description
-Assignment requirements not met: missing key sections on Python history, features, and applications. Major code smell for duplicated content and missing required content.Summary
-The documentation submission does not meet the assignment requirements. The main document (into.text) does not explain Python's history, key features with examples, or real-world applications as requested. It contains significant duplicated content and is structured as weekly learning objectives rather than the required explanatory document.
+Python is a high-level, interpreted, and general-purpose programming language. It is easy to learn because of its simple and readable syntax. Python supports multiple programming styles, including procedural, object-oriented, and functional programming.
 
-Description
-Assignment requirements not met: missing key sections on Python history, features, and applications. Major code smell for duplicated content and missing required content.Summary
-The documentation submission does not meet the assignment requirements. The main document (into.text) does not explain Python's history, key features with examples, or real-world applications as requested. It contains significant duplicated content and is structured as weekly learning objectives rather than the required explanatory document.
+Python was created by Guido van Rossum and first released in 1991. The language was named after the British comedy series "Monty Python's Flying Circus", not the snake. Today, Python is one of the most popular programming languages in the world and is widely used by beginners and professionals.
 
-Description
-Assignment requirements not met: missing key sections on Python history, features, and applications. Major code smell for duplicated content and missing required content.
+2. Key Features of Python
+1. Easy to Learn and Read
+
+Python uses simple English-like syntax, making it beginner-friendly.
+
+Example:
+
+print("Hello, Python!")
+2. Interpreted Language
+
+Python executes code line by line without requiring compilation, making debugging easier.
+
+3. Object-Oriented Programming
+
+Python supports classes and objects, allowing developers to build reusable and organized code.
+
+Example:
